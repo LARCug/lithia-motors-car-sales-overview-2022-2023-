@@ -91,3 +91,34 @@ Sales by car companies, top selling car models and car body style
 
 ![image](https://github.com/user-attachments/assets/4d9af09f-db3b-4a6b-a5d0-067e59243c65)
 
+Here ,the SUV, Passenger, Hatchback and Hardtop cars are mostly sold in the Austin region while the Sedan car body type was mostly sold in the Janesville regions. Among all companies selling their car products,the Mitsubishi sold most especially the Montero sport. The most sold car Model was the Lexus Ls400 seconded by the Volkswagen Jetta and the Oldsmobile Silhoutte.
+
+Most sold car engine type and car transmission type
+
+![image](https://github.com/user-attachments/assets/1b29edef-edae-470d-ad39-0ae9ad6685d1)
+
+Customers purchased majorly the Automatic transmission cars than the manually operated cars and the Double overhead camshaft engine cars are mostly purchased. The double camshaft engine was mostly purchased because of its top-notch notch performance and fuel economy nature.
+
+Customer choice on colour and purchasing power in relation to annual income and gender
+
+![image](https://github.com/user-attachments/assets/ba0385eb-8218-4705-b0f1-615c5875c70b)
+
+Men purchased more cars contributing to 78% of sales made as a result of higher annual income than women thereby having the higher purchasing power. Customers purchased more of the Pale white coloured cars than the black and red options.
+
+KEY RECOMMENDATIONS
+
+Lithia more should ensure to optimize car inventory measures to avoid stock outs and to meet demand for particular car mostly sold in specific regions. For effective advertisements, they should host test drives especially to new customers to showcase the new models and build brand awareness. They should also stock more of the most preferred purchased car transmission type, Automatic cars. Also continually improve the Auto-transmission efficiency and reliability which can also be offered in other car models especially the manually operated ones thereby increasing customer appeal.
+To increase sales in the low performing months of the year, Lathia should utilize the social media platforms to organize to advertise for car shows were different car models will be displayed in the public for the community to come have a feel of the trending cars. during this event, they can offer discounts to customers to foster sales at the moment. This strategy will create strong awareness in the public space.
+To encourage sales and productivity, Lithia should provide educational training and incentives to car dealers to increase performance in underperforming regions
+
+Enhance after-sales services, such as extended warranties, free maintenance, and roadside assistance, to increase customer satisfaction and retention. This is also a form of personalized advertisement
+
+Since Double overhead car engine are mostly preferred, I recommend they collaborate with ride-sharing companies and fleet operators to boost sales of compact and fuel-efficient car models.
+
+Introduce rewards and discounts for repeat customers to foster brand loyalty and increase customer retention.
+
+CONCLUSION
+
+The automobile market remains robust, with opportunities for growth in electric vehicles and premium segments. By leveraging data-driven strategies and adapting to consumer trends, stakeholders can enhance profitability and ensure long-term success in the competitive car sales industry.
+
+Analytical tool used- Power Bi
