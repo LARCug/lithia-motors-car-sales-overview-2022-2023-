@@ -1,4 +1,4 @@
-# lithia-motors-car-sales-overview-2022-2023-
+![image](https://github.com/user-attachments/assets/4287644e-b519-47b8-afb7-2f5d098e74fc)![image](https://github.com/user-attachments/assets/4287644e-b519-47b8-afb7-2f5d098e74fc)# lithia-motors-car-sales-overview-2022-2023-
 The project will help the car dealers identify areas for improvement and potential growth especially across monthly sales , understanding consumer behavior based on car colour body style choice and, enhancing sales strategies and offering actionable insights for manufacturers and dealers.
 
 ![DASHBOARD 10 a](https://github.com/user-attachments/assets/e26078f6-1d20-42c5-9909-3e13347a6a28)
@@ -55,4 +55,36 @@ KEY OBSERVATIONS
 Monthly & Yearly sales trend across 2022-2023
 
 ![image](https://github.com/user-attachments/assets/d9b00825-2246-485d-aa94-1f8c1ab4d711)
+
+![image](https://github.com/user-attachments/assets/93f68223-19f4-400e-baeb-d21fffa02f54)
+
+In the first quarter of the year,top sales were made the March month in the Austin region selling mostly the hatchback car body style type,the oldsmobile Silhouette car brand and model. Furthermore,pale white cars,uto-transmission and Double overhead camshaft engine cars were mostly sold in this quater. Cars were mostly sold on Sundays with Brandon making the highest cutomer.
+
+In the second quater, peak sales were made in the May month with cars mostly sold on Saturday in the Austin region. Here,Hatchback car body styles were mostly sold while the top selling car model was the Lexus Ls400 with pale white cars,Auto-transmission and Double overhead camshaft engine cars were mostly sold in this quater.
+
+The third quater had peak sales in the September month and highest customer traffic on Tuesdays with top sales in the Austin region. SUV cars were mostly sold with the most sold car model being Lexus Ls400 with Chevrolet car companies mostly selling their car products especially the Chevrolet Prizm. Furthermore,pale white cars,Auto-transmission and Double overhead camshaft engine cars were mostly sold in this quater
+
+The fourth quater had peak sales in the December month were the highest customer traffic was on Sundays in the Austin region. Here,Hatchback car body styles were mostly sold while the top selling car model was the Lexus Ls400 and the top car selling company was the Mitsubishi company selling mostly the Mitsubishi Montero sport. Furthermore,pale white cars,Auto-transmission and Double overhead camshaft engine cars were mostly sold in this quater.
+
+Weekly sales performance
+
+The top sales maade was on Tuesdays generating $123M in total sales. On Tuesdays, sales were mostly made in the September and November months with the lowest sales in January. The car model volkswagen jetta was mostly sold on Tuesdays while the Mitsubishi Montero sport was mostly sold by the Mitsubishi car company. SUV cars were mostly sold with pale white cars,Auto-transmission and Double overhead camshaft engine cars. Top sales were made here in th year 2023
+
+On the contrary,least car sales were made on Thursdays in the year 2022 in the November month. Hatchback car body style were mostly sold on Thursdays.
+
+Regional sales distribution
+
+![image](https://github.com/user-attachments/assets/dd099dd9-842c-498f-8a73-76193580dfd8)
+
+In the Aurora region, they made top sales in the December generating $14k especially in on Mondays in the year 2023. Mitsubishi company sold more of their car products especially the Diamante. Here ,pale white cars, SUVs, Automatic cars and Double overhead camshaft cars are mostly sold here with the top performing male customer being Chloe and the top female customer being Benjamin
+
+In the Austin region, they made top sales in the November & December generating $17k especially in on Saturday in the year 2023. Mitsubishi company sold more of their car products especially the Montero sport. Here ,pale white cars, SUVs, Automatic cars and Double overhead camshaft cars are mostly sold here with the top performing male customer being Nathan and the top female customer being Ethan
+
+Sales by car companies, top selling car models and car body style
+
+![image](https://github.com/user-attachments/assets/77e0ed9b-28a4-4da5-93e3-6c100b6aaa4c)
+
+![image](https://github.com/user-attachments/assets/dab7f42d-6f77-4a20-923a-d5adee7b1f65)
+
+![image](https://github.com/user-attachments/assets/4d9af09f-db3b-4a6b-a5d0-067e59243c65)
 
