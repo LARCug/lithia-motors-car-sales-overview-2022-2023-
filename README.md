@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4287644e-b519-47b8-afb7-2f5d098e74fc)![image](https://github.com/user-attachments/assets/4287644e-b519-47b8-afb7-2f5d098e74fc)# lithia-motors-car-sales-overview-2022-2023-
+lithia-motors-car-sales-overview-2022-2023-
 The project will help the car dealers identify areas for improvement and potential growth especially across monthly sales , understanding consumer behavior based on car colour body style choice and, enhancing sales strategies and offering actionable insights for manufacturers and dealers.
 
 ![DASHBOARD 10 a](https://github.com/user-attachments/assets/e26078f6-1d20-42c5-9909-3e13347a6a28)
@@ -68,8 +68,11 @@ The fourth quater had peak sales in the December month were the highest customer
 
 Weekly sales performance
 
-The top sales maade was on Tuesdays generating $123M in total sales. On Tuesdays, sales were mostly made in the September and November months with the lowest sales in January. The car model volkswagen jetta was mostly sold on Tuesdays while the Mitsubishi Montero sport was mostly sold by the Mitsubishi car company. SUV cars were mostly sold with pale white cars,Auto-transmission and Double overhead camshaft engine cars. Top sales were made here in th year 2023
+![image](https://github.com/user-attachments/assets/4287644e-b519-47b8-afb7-2f5d098e74fc)
 
+![image](https://github.com/user-attachments/assets/4287644e-b519-47b8-afb7-2f5d098e74fc)
+
+The top sales maade was on Tuesdays generating $123M in total sales. On Tuesdays, sales were mostly made in the September and November months with the lowest sales in January. The car model volkswagen jetta was mostly sold on Tuesdays while the Mitsubishi Montero sport was mostly sold by the Mitsubishi car company. SUV cars were mostly sold with pale white cars,Auto-transmission and Double overhead camshaft engine cars. Top sales were made here in the year 2023
 On the contrary,least car sales were made on Thursdays in the year 2022 in the November month. Hatchback car body style were mostly sold on Thursdays.
 
 Regional sales distribution
